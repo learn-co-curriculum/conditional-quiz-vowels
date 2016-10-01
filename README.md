@@ -80,15 +80,15 @@ The method `vowels_with_case` takes in a letter as an argument and uses a `case`
 ```ruby
 def vowels_with_case(letter)
   case letter
-  < fill me in > "a"
+  < fill me in! > "a"
     true
-  < fill me in > "e"
+  < fill me in! > "e"
     true
-  < fill me in > "i"
+  < fill me in! > "i"
     true
-  < fill me in > "o"
+  < fill me in! > "o"
     true
-  < fill me in > "u"
+  < fill me in! > "u"
     true
   else
     false
@@ -124,3 +124,5 @@ end
 ???
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/conditional-quiz-vowels' title='Quiz: Practicing Conditionals with Vowels'>Quiz: Practicing Conditionals with Vowels</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/conditional-quiz-vowels'>Logic and Conditionals Quiz</a> on Learn.co and start learning to code for free.</p>
