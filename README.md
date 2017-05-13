@@ -124,3 +124,5 @@ end
 ???
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/conditional-quiz-vowels' title='Quiz: Practicing Conditionals with Vowels'>Quiz: Practicing Conditionals with Vowels</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/conditional-quiz-vowels'>Logic and Conditionals Quiz</a> on Learn.co and start learning to code for free.</p>
